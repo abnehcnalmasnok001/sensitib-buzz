@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: abnehcnalmasnok001/sensitib-buzz
   branch: main
 
 media_folder: "assets/uploads"
